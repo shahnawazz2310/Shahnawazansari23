@@ -3,10 +3,7 @@
 - 🌱 I’m currently learning React.Js and TypeScript
 - 📃 Resume : https://drive.google.com/file/d/1MsgpAGhqqs4EgVG1lJB0LuipYZgInq_v/view 
 - 📫 How to reach me : shahnawaz59ansari@gmail.com
-
-
-    Connect with me:
-  @shahnawazz2310 https://www.linkedin.com/in/shahnawazz2310 @shahnawazz2310 
+- ⚡Connect with me : https://www.linkedin.com/in/shahnawazz2310  
 
 
 <!---
